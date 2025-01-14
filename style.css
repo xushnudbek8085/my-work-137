@@ -1,0 +1,13 @@
+.a{
+    background-color: pink;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+}
+.b{
+    background-color: pink;
+    height: 100px;
+    width: 300px;
+    border: 2px solid black;
+    transform: rotate(45deg);
+}
